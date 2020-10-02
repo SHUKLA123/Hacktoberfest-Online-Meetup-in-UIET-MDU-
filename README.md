@@ -4,7 +4,7 @@ A Global Open Source Event - HactoberFest is organized every year worldwide. Thi
 Hacktoberfest2020---its a very good project and get a free tshirt.
 Make your first Pull Request and earn a free tee from GitHub!
 
-Hacktoberfest 2020
+Hacktoberfest 2020.
 
 GitHub issues GitHub forks GitHub stars Github license
 
