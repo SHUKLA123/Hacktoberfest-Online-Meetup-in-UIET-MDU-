@@ -1,4 +1,4 @@
- # following functions are defined default ,display, create(in create:- existing_status )
+ # following functions are defined default ,display, create(in create:- existing_status ).
 def default():
    print("hello.. admin")
 def display():
